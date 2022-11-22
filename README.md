@@ -1,15 +1,16 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+Name: BHUVANESHWAR V
 
+Reg.No: 212221240009
 ### Aim :
-
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
-### Equipment Required:  
-
+### Equipment Required: 
 Instrial manipulator , teach pendant and associated program platform 
       
 ### Theory 
-    The following interpolation schemes are available in most of the robot controllers.
+The following interpolation schemes are available in most of the robot controllers.
+
 1. Joint interpolation
 2. Straight line interpolation
 3. Circular interpolation
@@ -39,8 +40,7 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Program : 
 DART studio screen shots for linear interpolation 
-
-
+![ouput](out.jpg)
 
 
 
@@ -59,7 +59,8 @@ DART studio screen shots for joint interpolation
 
 
 ### Robot movements 
-
+![ouput](robo.jpg)
+![ouput](robo2.jpg)
 
 
 
@@ -74,3 +75,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
